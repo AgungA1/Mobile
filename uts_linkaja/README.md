@@ -1,3 +1,5 @@
-# uts_linkaja
+# UTS 
 
-A new Flutter project.
+Slicing Design LinkAja
+
+![Result](result.gif)
